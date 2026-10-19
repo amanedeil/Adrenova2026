@@ -91,5 +91,13 @@
   ],
   "boys/table-tennis": []
  },
- "draws": []
+ "draws": [],
+ "announcements": [
+  {
+   "t": "Vollyball matc",
+   "m": "Next match BTW 22 and 23",
+   "d": "19 Oct",
+   "pin": false
+  }
+ ]
 }
