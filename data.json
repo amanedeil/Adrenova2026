@@ -94,6 +94,12 @@
  "draws": [],
  "announcements": [
   {
+   "t": "Football",
+   "m": "Next match BTW 22 and 21",
+   "d": "19 Oct",
+   "pin": false
+  },
+  {
    "t": "Vollyball matc",
    "m": "Next match BTW 22 and 23",
    "d": "19 Oct",
