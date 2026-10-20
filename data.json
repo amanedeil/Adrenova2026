@@ -210,6 +210,48 @@
      ]
     }
    ]
+  },
+  "boys/basketball": {
+   "cols": [
+    "Played",
+    "Won",
+    "Points"
+   ],
+   "sort": 2,
+   "rows": [
+    {
+     "n": "Troizeantz ’22",
+     "v": [
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "n": "Invictuz ’23",
+     "v": [
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "n": "Krenoviantz ’24",
+     "v": [
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "n": "Dhuruvazz ’25",
+     "v": [
+      0,
+      0,
+      0
+     ]
+    }
+   ]
   }
  },
  "results": {
@@ -251,6 +293,12 @@
     "Krenoviantz ’24": 2,
     "Dhuruvazz ’25": 1
    }
+  },
+  "boys/basketball": {
+   "pts": {}
+  },
+  "girls/volleyball": {
+   "pts": {}
   }
  },
  "groups": {
