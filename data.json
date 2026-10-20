@@ -84,6 +84,48 @@
      ]
     }
    ]
+  },
+  "girls/volleyball": {
+   "cols": [
+    "Played",
+    "Won ",
+    "Points"
+   ],
+   "sort": 2,
+   "rows": [
+    {
+     "n": "Troizeantz ’22",
+     "v": [
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "n": "Invictuz ’23",
+     "v": [
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "n": "Krenoviantz ’24",
+     "v": [
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "n": "Dhuruvazz ’25",
+     "v": [
+      0,
+      0,
+      0
+     ]
+    }
+   ]
   }
  },
  "results": {},
