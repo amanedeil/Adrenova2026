@@ -166,6 +166,39 @@
      ]
     }
    ]
+  },
+  {
+   "title": "vollyball group a boys",
+   "rounds": [
+    {
+     "name": "Semi-final",
+     "matches": [
+      {
+       "a": "Troizeantz ’22",
+       "b": "Invictuz ’23",
+       "sa": 0,
+       "sb": 0
+      },
+      {
+       "a": "Krenoviantz ’24",
+       "b": "Dhuruvazz ’25",
+       "sa": 0,
+       "sb": 0
+      }
+     ]
+    },
+    {
+     "name": "Final",
+     "matches": [
+      {
+       "a": "Invictuz ’23",
+       "b": "Krenoviantz ’24",
+       "sa": 0,
+       "sb": 0
+      }
+     ]
+    }
+   ]
   }
  ],
  "logos": {
