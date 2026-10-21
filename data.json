@@ -288,16 +288,19 @@
   },
   "girls/throwball": {
    "pts": {
-    "Troizeantz ’22": 4,
-    "Invictuz ’23": 3,
-    "Krenoviantz ’24": 2,
-    "Dhuruvazz ’25": 1
+    "Troizeantz ’22": 0,
+    "Invictuz ’23": 0,
+    "Krenoviantz ’24": 0,
+    "Dhuruvazz ’25": 0
    }
   },
   "boys/basketball": {
    "pts": {}
   },
   "girls/volleyball": {
+   "pts": {}
+  },
+  "girls/kho-kho": {
    "pts": {}
   }
  },
