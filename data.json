@@ -267,6 +267,147 @@
      ]
     }
    ]
+  },
+  "boys/basketball": {
+   "cols": [
+    "Played",
+    "Won",
+    "Points"
+   ],
+   "sort": 2,
+   "rows": [
+    {
+     "n": "Troizeantz ’22",
+     "v": [
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "n": "Invictuz ’23",
+     "v": [
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "n": "Krenoviantz ’24",
+     "v": [
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "n": "Dhuruvazz ’25",
+     "v": [
+      0,
+      0,
+      0
+     ]
+    }
+   ]
+  },
+  "boys/volleyball": {
+   "cols": [
+    "Played",
+    "Won",
+    "Points"
+   ],
+   "sort": 2,
+   "rows": [
+    {
+     "n": "Troizeantz ’22",
+     "v": [
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "n": "Invictuz ’23",
+     "v": [
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "n": "Krenoviantz ’24",
+     "v": [
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "n": "Dhuruvazz ’25",
+     "v": [
+      0,
+      0,
+      0
+     ]
+    }
+   ]
+  },
+  "boys/volleyball/group-a": {
+   "cols": [
+    "Played",
+    "Won",
+    "Lost",
+    "PD",
+    "SD",
+    "Points"
+   ],
+   "sort": 2,
+   "rows": [
+    {
+     "n": "Troizeantz ’22",
+     "v": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "n": "Invictuz ’23",
+     "v": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "n": "Krenoviantz ’24",
+     "v": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "n": "Dhuruvazz ’25",
+     "v": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   ]
   }
  },
  "results": {},
@@ -278,7 +419,11 @@
  "groups": {
   "girls/basketball": [],
   "boys/basketball": [],
-  "girls/throwball": []
+  "girls/throwball": [],
+  "boys/volleyball": [
+   "Group A",
+   "Group B"
+  ]
  },
  "draws": [],
  "logos": {
