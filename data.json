@@ -425,15 +425,7 @@
  "results": {
   "girls/basketball": [],
   "girls/throwball": [],
-  "girls/carrom": [
-   {
-    "a": "Troizeantz ’22",
-    "sa": 1,
-    "b": "Invictuz ’23",
-    "sb": 0,
-    "note": "League"
-   }
-  ]
+  "girls/carrom": []
  },
  "overall": {
   "girls/basketball": {
